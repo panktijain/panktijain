@@ -8,7 +8,7 @@
 
   <h2>Hey, I'm Pankti 👋</h2>
   <p>
-    Full Stack Developer @ LPU · Building scalable web apps, automation tools & real-time systems
+  Full Stack Developer @ LPU · Building scalable web apps, automation &amp; real-time systems
   </p>
 
   <!-- Buttons -->

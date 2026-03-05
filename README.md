@@ -8,7 +8,7 @@
 
   <h2>Hey, I'm Pankti 👋</h2>
   <p>
-    AI &amp; ML Specialization @ LPU · Freelance MERN Developer · Love automation &amp; real-time systems
+    Full Stack Developer @ LPU · Building scalable web apps, automation tools & real-time systems
   </p>
 
   <!-- Buttons -->

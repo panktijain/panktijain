@@ -1,100 +1,103 @@
-<!-- 3D gradient header -->
-![Pankti Jain Header](https://capsule-render.vercel.app/api?type=waving&color=0:4c46e6,100:c84af5&height=260&section=header&text=Pankti%20Jain&fontSize=48&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20ML%20Specialization%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50)
+<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4c46e6,100:c84af5&height=260&section=header&text=Pankti%20Jain&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20MERN%20Developer%20%7C%20Automation%20%26%20AI%20Enthusiast&descAlignY=60&descAlign=50)
 
-<!-- Centered profile card -->
-<div align="center" style="margin-top:-40px;">
+<div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%; border:3px solid #4c46e6;" alt="profile"/>
+<img src="https://github.com/panktijain.png" width="120" style="border-radius:50%;" />
 
-  <h2>Hey, I'm Pankti 👋</h2>
-  <p>
-  Full Stack Developer @ LPU · Building scalable web apps, automation &amp; real-time systems
-  </p>
+## Hey, I'm Pankti 👋
 
-  <!-- Buttons -->
-  <a href="https://www.linkedin.com/in/pankti-jain">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:panktijain1109@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/panktijain">
-    <img src="https://img.shields.io/badge/GitHub-Follow-24292f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+Full Stack Developer @ LPU · Building scalable web apps, automation &amp; real-time systems
 
-  <br/><br/>
+<br>
 
-  <!-- Stats "card" row like UI -->
-  <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=panktijain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=panktijain&theme=tokyonight&hide_border=true&border_radius=18" height="170" />
-  </div>
+<a href="https://www.linkedin.com/in/pankti-jain">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <br/>
+<a href="mailto:panktijain1109@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=panktijain&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" height="160" />
+<a href="https://github.com/panktijain">
+<img src="https://img.shields.io/badge/GitHub-Follow-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧩 Tech Stack
+# 🚀 About Me
+
+- 💻 Full Stack MERN Developer  
+- 🤖 Interested in AI automation &amp; real-time systems  
+- ⚡ Building scalable full-stack applications  
+- 🎓 B.Tech CSE @ Lovely Professional University  
+
+---
+
+# 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,cpp,python,git,github,linux,vscode" height="42" />
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,python,git,github,linux,vscode" />
+
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🟢 Intelligent WhatsApp Reply Engine</h3>
-      <p>
-        MERN based WhatsApp automation with persistent QR login, intent &amp; language detection,
-        chat-controlled rules and real-time messaging using Socket.io.
-      </p>
-      <p>
-        <a href="YOUR_WHATSAPP_ENGINE_GITHUB_LINK">
-          🔗 Source Code
-        </a>
-        &nbsp;|&nbsp;
-        <a href="YOUR_WHATSAPP_ENGINE_LIVE_LINK">
-          🌐 Live Demo
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔷 InternshipHub Platform</h3>
-      <p>
-        Multi-role internship management (Admin / Supervisor / Student) with secure auth,
-        project workflows, announcements and real-time messaging.
-      </p>
-      <p>
-        <a href="YOUR_INTERNSHIPHUB_GITHUB_LINK">
-          🔗 Source Code
-        </a>
-        &nbsp;|&nbsp;
-        <a href="YOUR_INTERNSHIPHUB_LIVE_LINK">
-          🌐 Live Demo
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💬 What I like building
-
-- 🔁 Automation & chat systems (WhatsApp, bots, dashboards)  
-- 🌐 Full-stack web apps (MERN) with real-time features  
-- 🧠 Small AI/ML utilities using Python & Scikit-Learn  
-
----
+# 📊 GitHub Stats
 
 <p align="center">
-  <i>Open to collaborations in AI, automation and full-stack projects.</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=panktijain&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=panktijain&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panktijain&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧩 Highlighted Projects
+
+### 🔹 InternshipHub Platform
+Multi-role internship management system with Admin, Supervisor and Student roles, real-time messaging and workflow automation.
+
+**Tech:** MERN, JWT, Socket.io, REST APIs
+
+---
+
+### 🔹 AI Powered Automated Blogging System
+Automation system generating SEO-optimized blogs using Google Gemini and HuggingFace APIs.
+
+**Tech:** Python, Streamlit, APIs, Automation
+
+---
+
+### 🔹 Hospital Management System
+Full-stack application managing patient records, appointments and hospital workflows.
+
+**Tech:** MERN, JWT Auth, Google Maps API, OpenAI API
+
+---
+
+# 💬 What I Love Building
+
+- 🔁 Automation tools &amp; bots  
+- 🌐 Full-stack MERN applications  
+- ⚡ Real-time systems (Socket.io)  
+- 🤖 AI-powered utilities  
+
+---
+
+<div align="center">
+
+⭐ From [Pankti Jain](https://github.com/panktijain)
+
+</div>

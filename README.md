@@ -101,41 +101,75 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ---
 
-# 🎯 Skills
+# 🚀 Tech Arsenal
+
+<div align="center">
 
 ### 👨‍💻 Languages
 
-- JavaScript (ES6+)
-- Java
-- Python
-- HTML5
-- CSS3
-- PHP
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
 
 ### ⚙ Frameworks
 
-- React.js
-- Node.js
-- Express.js
-- Tailwind CSS
-- Bootstrap
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+
+</p>
 
 ### 🗄 Database
 
-- MongoDB
-- MySQL
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+</p>
 
 ### 🛠 Tools
 
-- Git
-- GitHub
-- Figma
-- VS Code
-- REST APIs
-- Microsoft Excel
-- Data Analysis
+<p>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-FF9800?style=for-the-badge"/>
+
+</p>
+
+</div>
 
 # 📈 Coding Profiles
 

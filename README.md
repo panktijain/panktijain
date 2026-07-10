@@ -1,22 +1,58 @@
-<!-- ==================== Banner ==================== -->
+<!-- ==================== Animated Banner ==================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Pankti%20Jain&fontColor=ffffff&fontSize=65&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=22"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Pankti%20Jain&fontColor=ffffff&fontSize=68&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=22"/>
+
 </p>
 
+---
+
 <h1 align="center">
+
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Pankti Jain
+
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer | AI & ML Enthusiast
+
+💻 Full Stack Developer | Java Developer | MERN Stack Developer
+
 </h3>
 
 <h4 align="center">
-🚀 React • Node.js • Express • MongoDB • JavaScript • Java • Python
+
+🚀 Passionate about Building Scalable Web Applications & Clean User Experiences
+
 </h4>
 
 ---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;React.js+Developer;Backend+Developer;REST+API+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
 
 ## 💫 About Me
 

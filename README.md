@@ -481,8 +481,6 @@ Bachelor of Technology
 
 Computer Science & Engineering
 
-CGPA **7.61**
-
 2023 – Present
 
 ---
@@ -491,17 +489,9 @@ CGPA **7.61**
 
 Intermediate
 
-CGPA **6.8**
-
----
-
 🏫 Christu Jyothi Convent Sr. Sec. School
 
 Matriculation
-
-CGPA **8.4**
-
----
 
 # 💬 Quote
 
